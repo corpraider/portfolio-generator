@@ -9,3 +9,9 @@ const personObj = {
 
 personObj.age = 100;
 personObj.occupation = 'Developer';
+
+const printProfileData = (profileDataArr) => {
+    console.log(profileDataArr);
+  };
+  
+  printProfileData(profileDataArgs);
